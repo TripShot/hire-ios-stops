@@ -5,7 +5,7 @@ This is intended to be a simple project to help us get to know your experience w
 1. Display a list of transit stops, sorted by proximity to the user's current location, closest stop first.
 2. If the user's current location cannot be obtained, display the stops alphabetized by stop name.
 3. For each list item, render what you think is important data from the file. Be prepared to make your case for what should be shown, put yourself in the shoes of a transit user.
-4. Ensure that TalkBack announces the stop name using the tts_stop_name column.
+4. Ensure that VoiceOver announces the stop name using the tts_stop_name column.
 
 The transit stops are defined in the included stops.txt file. The structure of this file is defined here: https://developers.google.com/transit/gtfs/reference#stopstxt.
 
