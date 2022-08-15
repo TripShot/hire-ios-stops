@@ -19,3 +19,11 @@ The hope is that this takes you a few hours, feel free to take your time and spr
 2. Must use programmatic layout (no Storyboards or xib files).
 3. Does not need authentication, localization, unit tests, or UI tests.
 4. The stops file must be loaded asynchronously. Be prepared to show or discuss how you would load the same file (or some other representation of the contents of that file) over a network.
+
+## Evaluation
+
+Some important considerations:
+
+* How you choose to model a stop.
+* What you choose to render for each list item in the absence of concrete requirements.
+* How you choose to combine two asynchronous sources of data (stops and location).
