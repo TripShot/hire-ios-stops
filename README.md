@@ -19,10 +19,3 @@ The hope is that this takes you a few hours, feel free to take your time and spr
 2. Must use programmatic layout (no Storyboards or xib files).
 3. Does not need authentication, localization, unit tests, or UI tests.
 4. The stops file must be loaded asynchronously. Be prepared to show or discuss how you would load the same file (or some other representation of the contents of that file) over a network.
-
-## Discussion Items
-
-The expectation for the following items is that you search around for some algorithms/approaches. Be prepared to describe an approach you would take, but do not implement them.
-
-1. How could you efficiently find the closest stop given a very large data set?
-2. How could you render a large number of stops on a map? What issues would you run into when trying to do this?
